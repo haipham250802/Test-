@@ -9,3 +9,4 @@ cout <<"\t quanh nam buon ban o non song ";
 	cout << "\tlan noi than co khi quang vang";
 	return 0;
 }
+da chinh sua
